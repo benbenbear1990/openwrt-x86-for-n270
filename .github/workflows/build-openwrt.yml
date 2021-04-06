@@ -31,7 +31,6 @@ env:
   UPLOAD_COWTRANSFER: true
   UPLOAD_WETRANSFER: false
   UPLOAD_RELEASE: false
-  SSH_ACTIONS:true
   TZ: Asia/Shanghai
 
 jobs:
